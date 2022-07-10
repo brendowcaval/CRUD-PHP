@@ -4,6 +4,8 @@
 ### utilizei o XAMPP para o php e o mysql workbench
 ### usei o PDO para conectar o php com o banco             
 ### no config.php é a conexão e configuração com o banco
+### *os arquivos de actions são os arquivos que respectivamente interage com o banco, quando o botão é solicitado, criando e editando
+### *o arquivo excluir para remover 
 
 <h2 align="center">Idéia do projeto </h2>
 
